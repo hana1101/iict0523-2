@@ -11,8 +11,7 @@ function draw() {
   // drawPhone(450, 160);
   // drawDiary(650, 160);
   startBtn.display()
-  rect(0,0,20,300)
-  
+
   
 }
 
